@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "codex_luna": {
+      "type": "stdio",
+      "command": "python3",
+      "args": ["tools/codex_luna_mcp.py"],
+      "timeout": 600000
+    }
+  }
+}

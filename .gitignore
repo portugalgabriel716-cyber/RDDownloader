@@ -16,3 +16,6 @@ config.json
 build/
 dist/
 *.spec
+
+# Personal Claude Code permissions
+.claude/settings.local.json
