@@ -10,10 +10,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/portugalgabriel716-cyber/RDDownloader/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/portugalgabriel716-cyber/RDDownloader?color=7c6cff"></a>
-  <a href="https://github.com/portugalgabriel716-cyber/RDDownloader/releases"><img alt="Downloads" src="https://img.shields.io/github/downloads/portugalgabriel716-cyber/RDDownloader/total?color=34d399"></a>
+  <a href="https://github.com/gabriel-catarini/RDDownloader/releases/latest"><img alt="Latest release" src="https://img.shields.io/github/v/release/gabriel-catarini/RDDownloader?color=7c6cff"></a>
+  <a href="https://github.com/gabriel-catarini/RDDownloader/releases"><img alt="Downloads" src="https://img.shields.io/github/downloads/gabriel-catarini/RDDownloader/total?color=34d399"></a>
   <img alt="Platforms" src="https://img.shields.io/badge/platform-Windows%20%7C%20Linux-informational">
-  <a href="LICENSE"><img alt="MIT License" src="https://img.shields.io/github/license/portugalgabriel716-cyber/RDDownloader"></a>
+  <a href="LICENSE"><img alt="MIT License" src="https://img.shields.io/github/license/gabriel-catarini/RDDownloader"></a>
 </p>
 
 <p align="center">
@@ -24,8 +24,8 @@
 
 | Platform | File |
 |---|---|
-| **Windows 10/11** | [RDDownloader-windows.exe](https://github.com/portugalgabriel716-cyber/RDDownloader/releases/latest/download/RDDownloader-windows.exe) |
-| **Linux** (x86_64) | [RDDownloader-linux](https://github.com/portugalgabriel716-cyber/RDDownloader/releases/latest/download/RDDownloader-linux) |
+| **Windows 10/11** | [RDDownloader-windows.exe](https://github.com/gabriel-catarini/RDDownloader/releases/latest/download/RDDownloader-windows.exe) |
+| **Linux** (x86_64) | [RDDownloader-linux](https://github.com/gabriel-catarini/RDDownloader/releases/latest/download/RDDownloader-linux) |
 
 These are single portable files, so you don't need to install Python or anything else. On Linux, make the file executable first (`chmod +x RDDownloader-linux`).
 
@@ -51,7 +51,7 @@ These are single portable files, so you don't need to install Python or anything
 ## Run from source
 
 ```bash
-git clone https://github.com/portugalgabriel716-cyber/RDDownloader.git
+git clone https://github.com/gabriel-catarini/RDDownloader.git
 cd RDDownloader
 ./run.sh          # Windows: double-click run.bat
 ```

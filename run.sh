@@ -7,7 +7,7 @@ cd "$(dirname "$0")"
 if ! command -v python3 >/dev/null 2>&1; then
     echo "Python 3 not found. Install it with your package manager"
     echo "(e.g. sudo apt install python3 python3-venv) or grab the prebuilt binary:"
-    echo "  https://github.com/portugalgabriel716-cyber/RDDownloader/releases/latest"
+    echo "  https://github.com/gabriel-catarini/RDDownloader/releases/latest"
     exit 1
 fi
 
