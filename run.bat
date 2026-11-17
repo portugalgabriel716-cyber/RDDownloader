@@ -46,7 +46,7 @@ exit /b 0
 echo.
 echo Python could not be installed automatically.
 echo Download RDDownloader-windows.exe instead:
-echo   https://github.com/GabrielCatarini/RDDownloader/releases/latest
+echo   https://github.com/portugalgabriel716-cyber/RDDownloader/releases/latest
 echo or install Python from https://www.python.org/downloads/
 echo and tick "Add python.exe to PATH".
 pause

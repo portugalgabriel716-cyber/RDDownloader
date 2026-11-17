@@ -35,4 +35,4 @@ GitHub Actions runs the tests, builds the Windows and Linux executables and publ
 
 ## Bugs and ideas
 
-Open an [issue](https://github.com/GabrielCatarini/RDDownloader/issues). For bugs, include what happened, what you expected and any error message.
+Open an [issue](https://github.com/portugalgabriel716-cyber/RDDownloader/issues). For bugs, include what happened, what you expected and any error message.
